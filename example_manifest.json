@@ -1,0 +1,602 @@
+[
+  {
+    "profile": "Usuario 1",
+    "file": "Streaming_History_Audio_2024.json.gz",
+    "rows": 466,
+    "bytes": 12524
+  },
+  {
+    "profile": "Usuario 1",
+    "file": "Streaming_History_Audio_2025.json.gz",
+    "rows": 16030,
+    "bytes": 487267
+  },
+  {
+    "profile": "Usuario 1",
+    "file": "Streaming_History_Audio_2025_1.json.gz",
+    "rows": 16006,
+    "bytes": 528941
+  },
+  {
+    "profile": "Usuario 1",
+    "file": "Streaming_History_Audio_2025_2.json.gz",
+    "rows": 15959,
+    "bytes": 533955
+  },
+  {
+    "profile": "Usuario 1",
+    "file": "Streaming_History_Audio_2025_3.json.gz",
+    "rows": 4116,
+    "bytes": 135217
+  },
+  {
+    "profile": "Usuario 1",
+    "file": "Streaming_History_Audio_2026.json.gz",
+    "rows": 16021,
+    "bytes": 531795
+  },
+  {
+    "profile": "Usuario 1",
+    "file": "Streaming_History_Audio_2026_1.json.gz",
+    "rows": 11996,
+    "bytes": 399902
+  },
+  {
+    "profile": "Usuario 1",
+    "file": "Streaming_History_Video_2025.json.gz",
+    "rows": 396,
+    "bytes": 13993
+  },
+  {
+    "profile": "Usuario 1",
+    "file": "Streaming_History_Video_2026.json.gz",
+    "rows": 747,
+    "bytes": 20184
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2014.json.gz",
+    "rows": 21,
+    "bytes": 760
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2015.json.gz",
+    "rows": 762,
+    "bytes": 14362
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2016.json.gz",
+    "rows": 5,
+    "bytes": 491
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2019.json.gz",
+    "rows": 99,
+    "bytes": 3997
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2020.json.gz",
+    "rows": 13007,
+    "bytes": 379130
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2021.json.gz",
+    "rows": 4392,
+    "bytes": 150640
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2022.json.gz",
+    "rows": 5205,
+    "bytes": 172178
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2023.json.gz",
+    "rows": 1822,
+    "bytes": 61055
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2024.json.gz",
+    "rows": 842,
+    "bytes": 27944
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2025.json.gz",
+    "rows": 266,
+    "bytes": 9606
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Audio_2026.json.gz",
+    "rows": 280,
+    "bytes": 9968
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Video_2020.json.gz",
+    "rows": 6,
+    "bytes": 314
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Video_2024.json.gz",
+    "rows": 11,
+    "bytes": 667
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Video_2025.json.gz",
+    "rows": 18,
+    "bytes": 1107
+  },
+  {
+    "profile": "Usuario 2",
+    "file": "Streaming_History_Video_2026.json.gz",
+    "rows": 1,
+    "bytes": 261
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2016.json.gz",
+    "rows": 458,
+    "bytes": 12111
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2017.json.gz",
+    "rows": 3613,
+    "bytes": 99109
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2018.json.gz",
+    "rows": 8002,
+    "bytes": 228067
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2019.json.gz",
+    "rows": 5137,
+    "bytes": 137393
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2020.json.gz",
+    "rows": 347,
+    "bytes": 10969
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2021.json.gz",
+    "rows": 57,
+    "bytes": 1971
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2022.json.gz",
+    "rows": 71,
+    "bytes": 2989
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2023.json.gz",
+    "rows": 986,
+    "bytes": 33533
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2024.json.gz",
+    "rows": 3066,
+    "bytes": 87428
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2025.json.gz",
+    "rows": 2010,
+    "bytes": 63002
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Audio_2026.json.gz",
+    "rows": 1040,
+    "bytes": 35940
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Video_2018.json.gz",
+    "rows": 3,
+    "bytes": 292
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Video_2023.json.gz",
+    "rows": 72,
+    "bytes": 2393
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Video_2024.json.gz",
+    "rows": 53,
+    "bytes": 2547
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Video_2025.json.gz",
+    "rows": 5,
+    "bytes": 437
+  },
+  {
+    "profile": "Usuario 3",
+    "file": "Streaming_History_Video_2026.json.gz",
+    "rows": 8,
+    "bytes": 577
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2013.json.gz",
+    "rows": 411,
+    "bytes": 12840
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2014.json.gz",
+    "rows": 13090,
+    "bytes": 419563
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2015.json.gz",
+    "rows": 15528,
+    "bytes": 499846
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2015_1.json.gz",
+    "rows": 2976,
+    "bytes": 92925
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2016.json.gz",
+    "rows": 15383,
+    "bytes": 518725
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2016_1.json.gz",
+    "rows": 4592,
+    "bytes": 159254
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2017.json.gz",
+    "rows": 15534,
+    "bytes": 507366
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2017_1.json.gz",
+    "rows": 15422,
+    "bytes": 508298
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2017_2.json.gz",
+    "rows": 11874,
+    "bytes": 389541
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2018.json.gz",
+    "rows": 15322,
+    "bytes": 500968
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2018_1.json.gz",
+    "rows": 15289,
+    "bytes": 491926
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2018_2.json.gz",
+    "rows": 15231,
+    "bytes": 505890
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2018_3.json.gz",
+    "rows": 5131,
+    "bytes": 171781
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2019.json.gz",
+    "rows": 15365,
+    "bytes": 507806
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2019_1.json.gz",
+    "rows": 15544,
+    "bytes": 530673
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2019_2.json.gz",
+    "rows": 15606,
+    "bytes": 524226
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2019_3.json.gz",
+    "rows": 15601,
+    "bytes": 514119
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2019_4.json.gz",
+    "rows": 993,
+    "bytes": 28467
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2020.json.gz",
+    "rows": 15573,
+    "bytes": 503249
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2020_1.json.gz",
+    "rows": 15562,
+    "bytes": 523560
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2020_2.json.gz",
+    "rows": 15400,
+    "bytes": 521092
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2020_3.json.gz",
+    "rows": 7685,
+    "bytes": 256235
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2021.json.gz",
+    "rows": 14896,
+    "bytes": 502116
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2021_1.json.gz",
+    "rows": 14860,
+    "bytes": 495008
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2021_2.json.gz",
+    "rows": 14745,
+    "bytes": 512824
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2021_3.json.gz",
+    "rows": 14888,
+    "bytes": 500613
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2021_4.json.gz",
+    "rows": 15117,
+    "bytes": 506477
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2021_5.json.gz",
+    "rows": 2796,
+    "bytes": 94974
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2022.json.gz",
+    "rows": 14821,
+    "bytes": 431866
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2022_1.json.gz",
+    "rows": 15040,
+    "bytes": 513277
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2022_2.json.gz",
+    "rows": 15035,
+    "bytes": 515345
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2022_3.json.gz",
+    "rows": 15194,
+    "bytes": 526066
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2022_4.json.gz",
+    "rows": 13741,
+    "bytes": 438354
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2023.json.gz",
+    "rows": 16061,
+    "bytes": 513996
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2023_1.json.gz",
+    "rows": 16109,
+    "bytes": 480705
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2023_2.json.gz",
+    "rows": 16052,
+    "bytes": 527364
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2023_3.json.gz",
+    "rows": 16090,
+    "bytes": 519050
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2023_4.json.gz",
+    "rows": 3629,
+    "bytes": 120691
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2024.json.gz",
+    "rows": 16037,
+    "bytes": 535534
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2024_1.json.gz",
+    "rows": 16065,
+    "bytes": 519543
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2024_2.json.gz",
+    "rows": 15991,
+    "bytes": 509943
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2024_3.json.gz",
+    "rows": 8884,
+    "bytes": 278904
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2025.json.gz",
+    "rows": 16098,
+    "bytes": 516827
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2025_1.json.gz",
+    "rows": 16124,
+    "bytes": 485400
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2025_2.json.gz",
+    "rows": 16165,
+    "bytes": 480794
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2025_3.json.gz",
+    "rows": 16128,
+    "bytes": 471858
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2025_4.json.gz",
+    "rows": 3608,
+    "bytes": 114253
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2026.json.gz",
+    "rows": 16126,
+    "bytes": 499495
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2026_1.json.gz",
+    "rows": 16094,
+    "bytes": 522773
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Audio_2026_2.json.gz",
+    "rows": 6013,
+    "bytes": 198570
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2017.json.gz",
+    "rows": 12,
+    "bytes": 922
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2018.json.gz",
+    "rows": 33,
+    "bytes": 1877
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2019.json.gz",
+    "rows": 25,
+    "bytes": 1526
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2020.json.gz",
+    "rows": 5,
+    "bytes": 438
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2021.json.gz",
+    "rows": 2,
+    "bytes": 264
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2022.json.gz",
+    "rows": 2,
+    "bytes": 287
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2023.json.gz",
+    "rows": 14,
+    "bytes": 893
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2024.json.gz",
+    "rows": 200,
+    "bytes": 8171
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2025.json.gz",
+    "rows": 485,
+    "bytes": 15535
+  },
+  {
+    "profile": "Usuario 4",
+    "file": "Streaming_History_Video_2026.json.gz",
+    "rows": 1513,
+    "bytes": 39216
+  }
+]

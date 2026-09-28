@@ -1,0 +1,25 @@
+{
+  "tool": "Built-in image_gen",
+  "prompts": [
+    {
+      "id": "fiel",
+      "prompt": "Use case: stylized-concept. Asset: square user avatar for a musical archetype in a dark music analytics app and downloadable story card. Create one polished mystical illustrated portrait, centered head and shoulders, gender-neutral original fantasy character with elegant headphones, sculpted painterly detail, strong silhouette legible as small avatar, luminous circular aura, nearly black background. All face and shoulders contained in central 80 percent, no text, no lettering, no logos, no watermark. El Fiel de Culto: a devoted guardian of musical memory, emerald hooded robes, antique gold headphone details, a vinyl record halo, calm steadfast face, green and gold light."
+    },
+    {
+      "id": "explorador",
+      "prompt": "Use case: stylized-concept. Asset: square user avatar for a musical archetype in a dark music analytics app and downloadable story card. Create one polished mystical illustrated portrait, centered head and shoulders, gender-neutral original fantasy character with elegant headphones, sculpted painterly detail, strong silhouette legible as small avatar, luminous circular aura, nearly black background. All face and shoulders contained in central 80 percent, no text, no lettering, no logos, no watermark. El Explorador Impaciente: a restless sonic wanderer, short windswept hair, futuristic travel cloak, electric cyan headphones, fractured compass halo and tiny sparks, curious bright face, cyan and orange light."
+    },
+    {
+      "id": "arquitecto",
+      "prompt": "Use case: stylized-concept. Asset: square user avatar for a musical archetype in a dark music analytics app and downloadable story card. Create one polished mystical illustrated portrait, centered head and shoulders, gender-neutral original fantasy character with elegant headphones, sculpted painterly detail, strong silhouette legible as small avatar, luminous circular aura, nearly black background. All face and shoulders contained in central 80 percent, no text, no lettering, no logos, no watermark. El Arquitecto de la Madrugada: a nocturnal celestial architect, indigo mantle patterned with subtle constellations, silver headphones, crescent moon and geometric orbit halo, tranquil introspective face, violet and silver light."
+    },
+    {
+      "id": "coleccionista",
+      "prompt": "Use case: stylized-concept. Asset: square user avatar for a musical archetype in a dark music analytics app and downloadable story card. Create one polished mystical illustrated portrait, centered head and shoulders, gender-neutral original fantasy character with elegant headphones, sculpted painterly detail, strong silhouette legible as small avatar, luminous circular aura, nearly black background. All face and shoulders contained in central 80 percent, no text, no lettering, no logos, no watermark. El Coleccionista Ecléctico: a cosmic curator of sounds, iridescent layered cloak, beautiful headphones, halo of small colorful orbiting crystal shards like a prismatic archive, intrigued serene face, magenta teal and violet light."
+    },
+    {
+      "id": "ritualista",
+      "prompt": "Use case: stylized-concept. Asset: square user avatar for a musical archetype in a dark music analytics app and downloadable story card. Create one polished mystical illustrated portrait, centered head and shoulders, gender-neutral original fantasy character with elegant headphones, sculpted painterly detail, strong silhouette legible as small avatar, luminous circular aura, nearly black background. All face and shoulders contained in central 80 percent, no text, no lettering, no logos, no watermark. El Ritualista Sereno: a contemplative keeper of listening rituals, warm earth-toned flowing robes, elegant bronze headphones, concentric luminous sun rings, peaceful eyes, amber and sage light."
+    }
+  ]
+}

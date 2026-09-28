@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.streamlit/secrets.toml
+.env
+.env.*
+*.zip
+
+# Only the reviewed, compressed example histories belong in the public repository.
+data/**/*.json
